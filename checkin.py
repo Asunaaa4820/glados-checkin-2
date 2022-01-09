@@ -4,10 +4,9 @@ import requests,json,os
 sever = os.environ["SERVE"]
 # 填写server酱sckey,不开启server酱则不用填
 sckey = os.environ["SCKEY"]
-#'SCT85922TmcoDs8rBfknBAv407MUW3oqb'
+
 # 填入glados账号对应cookie
 cookie = os.environ["COOKIE"]
-#'__cfduid=d3459ec306384ca67a65170f8e2a5bd561593049467;_ga=GA1.2.1902388494.1629209614; koa:sess=eyJ1c2VySWQiOjU4NzYyLCJfZXhwaXJlIjoxNjU1MTI5NjM3MjAwLCJfbWF4QWdlIjoyNTkyMDAwMDAwMH0=; koa:sess.sig=wVmTzQYg-C-24tCqDbShd3CWWaI; _gid=GA1.2.612119786.1641618794; _gat_gtag_UA_104464600_2=1'
 
 
 
